@@ -1,6 +1,6 @@
 # Practical Work 2: Super-Resolution CNN
 
-This is a supporting repository you'll use for the Practical Work 2 on the chapter about Super-Resolution. You'll find it [here](https://cpcdoy.github.io/articles/tp-2/)
+This is a supporting repository you'll use for the Practical Work 2 on the chapter about Super-Resolution you'll find [here](https://cpcdoy.github.io/articles/tp-2/)
 
 ## Usage:
 
