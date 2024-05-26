@@ -1,6 +1,6 @@
 # Deep Learning Course Practical Work
 
-Practical work for the Deep Learning course at EPITA
+Practical work for my Deep Learning course at EPITA. The website can be found [here](https://cpcdoy.github.io/articles/).
 
 ## Directory Structure
 
