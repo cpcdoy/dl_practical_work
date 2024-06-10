@@ -45,7 +45,7 @@ class SinusoidalPositionEmbeddings(nn.Module):
         half_dim = self.dim // 2  # Step 1
         embeddings = math.log(10000) / (half_dim - 1)  # Step 2
 
-        # COMPLETE THIS FOR THE RESTE OF THE STEPS 3, 4, 5
+        # COMPLETE THIS FOR THE REST OF THE STEPS 3, 4, 5
 
         return embeddings
 
